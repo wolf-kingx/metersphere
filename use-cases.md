@@ -16,3 +16,4 @@
 - [社区分享｜国信证券基于开源工具的系统质量保障实践](https://blog.fit2cloud.com/?p=ad4bcac1-5579-43de-875d-5a6488f2e2ca)
 - [案例研究｜MeterSphere助力万物云构建高效自动化测试平台](https://blog.fit2cloud.com/?p=20cd640b-e935-47dc-a5ec-05d413c9a313)
 - [案例研究丨88完美邮箱全面提升产品质量的落地指南](https://blog.fit2cloud.com/?p=1573)
+- [社区分享丨法大大基于MeterSphere打通DevOps流程](https://blog.fit2cloud.com/?p=3876)
